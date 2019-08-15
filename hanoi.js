@@ -9,4 +9,4 @@ const hanoi2 = (discos, inicio, aux, destino) => {
 }
 
 console.log('----')
-hanoi2(30, 'Origem', 'Auxiliar', 'Destino')
+hanoi2(3, 'Origem', 'Auxiliar', 'Destino')
